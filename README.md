@@ -114,9 +114,7 @@ We selected the top 25 for the primary ranking and retained each district's:
 * Current value
 * Increment
 
-The ranking measures **absolute dollars of property-value increment**, not percentage growth.
-
-That distinction matters. A district that increased from $10 million to $50 million has grown by 400%, but it has a $40 million increment. A district that increased from $500 million to $1 billion has grown by 100%, but has a $500 million increment and therefore ranks much higher in our analysis.
+The ranking measures **absolute dollars of property-value increment**, not percentage growth. A district that increased from $10 million to $50 million has grown by 400%, but it has a $40 million increment. A district that increased from $500 million to $1 billion has grown by 100%, but has a $500 million increment and therefore ranks much higher in our analysis.
 
 ---
 
