@@ -15,7 +15,9 @@ In simple terms:
 
 We use the increment to identify TIDs with the largest **absolute increases in equalized property value above their original tax base**.
 
-The analysis does **not** treat increment as a measure of profitability, tax revenue, economic impact or return on public investment. Those questions require additional data.
+The analysis does not treat increment as a measure of profitability, tax revenue, economic impact or return on public investment. Those questions require additional data. But increment remains central to how tax-increment financing works. 
+
+When a TID is created, the property inside it has a base value; as development occurs and property values rise, the increase above that base — the increment — forms the tax base on which TID revenue is generated to pay eligible project costs. Measuring the increment therefore gives us a consistent way to see how much additional equalized property value has accumulated within each district and where that growth is concentrated across Wisconsin.
 
 ---
 
